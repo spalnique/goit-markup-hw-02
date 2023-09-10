@@ -11,3 +11,30 @@ a {
 ul {
     list-style-type: none;
 }
+
+.menu-link {
+    color: #2E2F42;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #404BBF;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    text-decoration: underline;
+}
+
+.contact-link {
+    color: #434455;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: #404BBF;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
