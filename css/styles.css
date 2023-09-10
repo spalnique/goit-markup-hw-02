@@ -17,8 +17,8 @@ ul {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-height: 21px;
+    letter-spacing: 0.54px;
     text-transform: uppercase;
     color: #4D5AE5;
 }
@@ -51,6 +51,51 @@ ul {
 .contact-link:hover,
 .contact-link:focus {
     color: #404BBF;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.banner {
+    background-color: #2e2f42;
+}
+
+.banner-title {
+    color: #ffffff;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    text-align: center;
+}
+
+.banner-button {
+    background-color: #4D5AE5;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    cursor: pointer;
+}
+
+.banner-button:hover,
+.banner-button:focus {
+    background-color: #404BBF;
+}
+
+.list-unit-title {
+    color: #2e2f42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.list-unit-text {
+    color: #434455;
+    font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
 }
