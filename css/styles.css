@@ -125,3 +125,23 @@ ul {
 .team-section {
     background-color: #F4F4FD;
 }
+
+.portfolio-section {
+    background-color: inherit;
+}
+
+.portfolio-unit-title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.portfolio-unit-text {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
